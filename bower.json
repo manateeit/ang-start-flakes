@@ -1,0 +1,32 @@
+{
+  "name": "ang-starter",
+  "version": "1.0",
+  "authors": [
+    "Maikel Rivero Dorta <mriverodorta@gmail.com>"
+  ],
+  "description": "Angular start point for medium and large applications",
+  "keywords": [
+    "AngularJs",
+    "start",
+    "boilerplate",
+    "seed"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/mriverodorta/ang-starter",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.2.x",
+    "angular-route": "1.2.x",
+    "jquery": "~2.1.1",
+    "snapjs": "~1.9.3",
+    "responsive-elements": "~1.0.0",
+    "gridforms": "~1.0.2"
+  }
+}
